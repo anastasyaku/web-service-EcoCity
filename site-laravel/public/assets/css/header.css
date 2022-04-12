@@ -1,0 +1,37 @@
+body > header {
+    position: sticky;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 100;
+    padding-bottom: 0.3em;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.175);
+}
+
+body > header .logo h1 {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 36px;
+    vertical-align: middle;
+}
+
+body > header .logo img {
+    width: 50px;
+    margin: 0 -1em;
+}
+
+body > header > div {
+    margin-top: 5px;
+}
+
+@media(max-width: 425px) {
+    body > header .logo h1 {
+        display: none;
+    }
+}
+
+body > header button {
+    margin-top: 0.2em;
+}

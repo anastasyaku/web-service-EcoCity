@@ -1,0 +1,13 @@
+.modal-body, .new-mark-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.new-mark-form {
+    grid-column: 1 / 3;
+}
+
+.new-mark-form input[type=submit] {
+    grid-column-start: 2;
+}

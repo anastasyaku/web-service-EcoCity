@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m15.375,6.03594l-1.075,7.06406l-5.1,5.4l0.2,1.5l7.4,8.1l15.3,-4.1" fill="url(#svg_18)" id="shadow" opacity="0.5" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+  <path d="m10.086486,16.07091c5.640144,-4.096158 4.251092,-9.696399 1.427475,-12.923896l-0.434928,0.430129l1.434347,1.627725c-1.213525,-0.400235 -2.451923,0.215627 -2.640733,0.363652c-5.769197,4.522916 -0.352647,14.672465 -0.352647,14.672465c-0.297874,-1.460121 3.270632,-4.469458 5.481818,-7.049801c2.211192,-2.580345 1.51264,-5.631699 0.690297,-6.680646c-0.82235,-1.048945 -1.878986,-1.174623 -2.024174,-1.247216c1.735867,5.389162 0.120819,8.847557 -3.581454,10.807587z" fill="#8bc34a" id="svg_1"/>
+  <g id="svg_10"/>
+  <circle cx="11.825" cy="9.25" fill="#ffffff" id="hole" r="1.729899" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/>
+ </g>
+ <defs>
+  <linearGradient id="svg_18" x1="0.334656" x2="0" y1="0.488281" y2="0">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#898989" stop-opacity="0.988281"/>
+  </linearGradient>
+ </defs>
+</svg>

@@ -1,0 +1,14 @@
+#page-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* Правила для растяжения страницы на 100% высоты экрана, если высота страницы меньше высоты экрана */
+body {
+    display: flex;
+    flex-direction: column;
+}
+#page-content {
+    flex-grow: 1;
+}
