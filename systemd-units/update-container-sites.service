@@ -1,0 +1,6 @@
+[Unit]
+Description=Обновление реестра контейнерных площадок
+
+[Service]
+Type=oneshot
+ExecStart=%h/trash/tools/update-container-sites.sh

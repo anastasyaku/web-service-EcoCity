@@ -1,0 +1,5 @@
+openpyxl
+click
+requests
+beautifulsoup4
+pymysql
